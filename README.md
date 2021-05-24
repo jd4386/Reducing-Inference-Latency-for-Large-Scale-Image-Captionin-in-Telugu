@@ -8,7 +8,7 @@ A pre-existing Image Caption Generation in Telugu model from https://github.com/
 4. Ray
 
 Team:
-Jagan Mohan Reddy Dwarampudi
+Jagan Mohan Reddy Dwarampudi\n
 Damerla Rampavan
 Mandavilli Anu Sandeep Sathwik
 Kaipu Nivas Reddy
